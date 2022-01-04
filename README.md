@@ -1,4 +1,4 @@
-# Coin Tracker Study
+# 💌 Coin Tracker Study 💌
 react study
 -> Coin Tracker making "App.js"
 
